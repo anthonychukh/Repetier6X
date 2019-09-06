@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:megaADK",
+    "sketch": "Repetier\\Repetier.ino",
+    "output": "../build",
+    "debugger": "jlink",
+    "port": "COM7"
+}
