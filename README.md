@@ -22,17 +22,21 @@ The hardware used to develop this firmware
  * Remote drive cable from Zesty Technology
 
 
--------------------DISCLAIMER------------------------
-This is a WIP! Always do dry run before running a task and take extra caution.
-Sporadic turning direction happens on ABC axes.
-User should take their own caution and risk when using this library
-.
-The creator(s) of this library do not provide any garantee and waranty to use of this library and digital tool derives from this library.
+---
+This repository was build upon original firmware by Repetier https://github.com/repetier/Repetier-Firmware  
+This repository, like Repetier, is open source licensed under the GPL V3.  
+  
+---
 
---------------------CAUTION---------------------------
+**DISCLAIMER**  
 
-Working with electronic devices could be dangerous.
-Always take precaution when working on electronic devices.
-Make sure you are well trained and informed to work on the specific system
-.
-Failure to appropriately operate your machine could lead to hardware damage and/or serious injuries.
+This library and Grasshopper plugin was created out of the good intension of education and promotion of technology.  
+User should take their own caution and risk when using this library.  
+The creator(s) and contributors of this library do not provide any garantee or waranty to the use of this library and/or digital tool derives from this library.  
+  
+---
+**CAUTION**  
+  
+Working with electronic devices could be dangerous.  
+Always take precaution accordingly and make sure you are well trained and informed to work on the specific system
+Failure to operate your machine correctly could result in hardware damage and/or serious injuries
